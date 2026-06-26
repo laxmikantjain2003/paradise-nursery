@@ -62,3 +62,8 @@ body {
 .add-btn { background-color: #4CAF50; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer; width: 100%; margin-top: 10px; }
 .added-btn { background-color: #888; color: white; padding: 10px; border: none; border-radius: 5px; cursor: not-allowed; width: 100%; margin-top: 10px; }
 
+.landing-page {
+  background-image: url('YOUR_IMAGE_URL');
+  background-size: cover;
+  min-height: 100vh;
+}
